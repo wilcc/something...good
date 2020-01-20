@@ -10,18 +10,21 @@ Things I like:
 5. Sleep
 
 Places I like to visit 
-- China![China](https://cdn1.iconfinder.com/data/icons/stripe-flag-set/23/CN.png)
-- Australia![Australia](https://cdn1.iconfinder.com/data/icons/stripe-flag-set/23/AU.png)
-- Brazil![Brazil](https://cdn1.iconfinder.com/data/icons/stripe-flag-set/23/BR.png)
-- Norway![Norway](https://cdn1.iconfinder.com/data/icons/stripe-flag-set/23/NO.png)
-- Belgium![Belgium](https://cdn1.iconfinder.com/data/icons/stripe-flag-set/23/BE.png)
+- **China**![China](https://cdn1.iconfinder.com/data/icons/stripe-flag-set/23/CN.png)
+- *Australia*![Australia](https://cdn1.iconfinder.com/data/icons/stripe-flag-set/23/AU.png)
+- *Brazil*![Brazil](https://cdn1.iconfinder.com/data/icons/stripe-flag-set/23/BR.png)
+- *Norway*![Norway](https://cdn1.iconfinder.com/data/icons/stripe-flag-set/23/NO.png)
+- *Belgium*![Belgium](https://cdn1.iconfinder.com/data/icons/stripe-flag-set/23/BE.png)
   
 
+| City          | State           | Length  |
+| ------------- |:-------------:| -----:|
+| NYC     | New York | 14yrs |
+| Norfolk     | Virginia     |   3yrs |
+| West Hartford | Connecticut     |    3yrs |
 
 
 
 
-
-
-[Github](github.com)
-[![Github](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxM9W26acEehdvPqNnUwMAbggUtuAEc1Nt-YWjFhKnzBIxN39Z&s)](https://github.com/wilcc "noob coder")
+[![Github](https://lookingforclan.com/sites/default/files/styles/icon/public/2019-03/noob%20logo%20for%20discord.png.jpg?itok=AQ-V3m5f)](https://github.com/wilcc "noob coder")
+'s [Github](github.com)
