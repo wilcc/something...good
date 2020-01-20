@@ -1,4 +1,4 @@
-# Something...good's 
+# Something...good's page
 
 [![alt text](https://i.pinimg.com/originals/e2/6c/8a/e26c8a6bb2fbce33c5b6471810435c4a.png "Smile it's a beautiful day")](https://facebook.com/wilson.y.chen)
 
@@ -10,13 +10,13 @@ Things I like:
 5. Sleep
 
 Places I like to visit 
-- China
-- Greece
-- Hawaii
-- Norway
-- Thailand
+- China![China](https://cdn1.iconfinder.com/data/icons/stripe-flag-set/23/CN.png)
+- Australia![Australia](https://cdn1.iconfinder.com/data/icons/stripe-flag-set/23/AU.png)
+- Brazil![Brazil](https://cdn1.iconfinder.com/data/icons/stripe-flag-set/23/BR.png)
+- Norway![Norway](https://cdn1.iconfinder.com/data/icons/stripe-flag-set/23/NO.png)
+- Belgium![Belgium](https://cdn1.iconfinder.com/data/icons/stripe-flag-set/23/BE.png)
   
-  
+
 
 
 
